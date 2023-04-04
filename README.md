@@ -34,5 +34,5 @@ python keyword_finder.py
 The script will search for the specified keywords in the provided websites, print the results, and open the matching web pages in your default browser.
 
 # License
-This project is released under the MIT License.
+This project is released under the [MIT License](https://opensource.org/license/mit/).
 

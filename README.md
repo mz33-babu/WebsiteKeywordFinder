@@ -7,6 +7,11 @@ This Python script searches for specified keywords on a list of preselected web 
 * `requests`
 * `beautifulsoup4`
 
+Install the required packages using the following command:
+```css
+pip install -r requirements.txt
+```
+
 # Installation
 1. Install the required libraries:
 ```css

@@ -9,7 +9,7 @@ This Python script searches for specified keywords on a list of preselected web 
 
 
 # Installation
-2. Install the required libraries using the following command:
+1. Install the required libraries using the following command:
 ```bash
 pip install -r requirements.txt
 ```

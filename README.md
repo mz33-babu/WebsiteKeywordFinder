@@ -7,16 +7,17 @@ This Python script searches for specified keywords on a list of preselected web 
 * `requests`
 * `beautifulsoup4`
 
-
 # Installation
-1. Install the required libraries using the following command:
-```bash
-pip install -r requirements.txt
-```
-2. Download the `keyword_finder.py` script.
+1. Download the `keyword_finder.py` script.
 ```bash
 git clone https://github.com/mz33-babu/WebsiteKeywordFinder.git
 ```
+
+2. Install the required libraries using the following command:
+```bash
+pip install -r requirements.txt
+```
+
 # Usage
 1. Edit the `keyword_finder.py` script to include the list of preselected websites and search terms:
 ```css
